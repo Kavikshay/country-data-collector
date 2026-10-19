@@ -1,0 +1,16 @@
+[
+    {
+        "name": "India",
+        "capital": "New Delhi",
+        "region": "Asia",
+        "currencie": "Indian rupee",
+        "population": 1428627663
+    },
+    {
+        "name": "Japan",
+        "capital": "Tokyo",
+        "region": "Asia",
+        "currencie": "Japanese yen",
+        "population": 123000000
+    }
+]
